@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">first_class</string>
+    <string name="button">Button</string>
+    <string name="hello_world_my_name_is_ding">Hello World!my name is Ding</string>
 </resources>
